@@ -1,0 +1,22 @@
+IMPUT
+
+3
+5
+Indrys 3
+Fossa 67
+Dingo 64
+Werweta 10
+Kwezal 1
+3
+Indrys 3
+Fossa 2
+Dingo 4
+1
+Indrys 10
+
+
+OUTPUT
+
+Kwezal-1 Dingo-64 Indrys-3 Werweta-10 Fossa-67
+Fossa-2 Dingo-4 Indrys-3
+Indrys-10 
