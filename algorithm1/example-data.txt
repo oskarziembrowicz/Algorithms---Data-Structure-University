@@ -1,0 +1,30 @@
+INPUT
+
+3
+5
+2 3 1
+Abidemi 3 160.5 12 
+Bayo 3 172.4 12 
+Chika 2 190.2 2 
+Dalili 3 167.9 12 
+Esi 1 190.2 3 
+5
+3 1 2
+Abidemi 3 160.5 12 
+Bayo 3 172.4 12 
+Chika 2 190.2 3 
+Dalili 3 167.9 12 
+Esi 1 190.2 2 
+5
+1 2 3
+Abidemi 3 167.9 12 
+Bayo 3 167.9 12 
+Chika 2 190.2 3 
+Dalili 3 167.9 12 
+Esi 1 190.2 2 
+
+
+OUTPUT
+Esi 
+Bayo 
+Abidemi
