@@ -1,0 +1,12 @@
+INPUT
+
+5
+2
+Antonin Bulgur Czychawa Drecja Euk
+Bulgur Euk X Antonin Czychawa Drecja X Bulgur Drecja X Bulgur Czychawa Euk X Antonin Drecja X
+Antonin
+Bulgur Drecja
+
+
+OUTPUT
+2
