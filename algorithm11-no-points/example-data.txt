@@ -1,0 +1,22 @@
+INPUT
+
+4 1
+Jan
+Kowalski
+12
+Paulina
+Wysocka
+6
+Robert
+Bartecki
+12
+Aldona
+Nowak
+14
+
+
+OUTPUT
+
+Robert
+Bartecki
+12

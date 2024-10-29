@@ -1,0 +1,15 @@
+AWARYJNA LOTERIA
+
+Po ostatnich awariach na Wyspie zapanowało wzburzenie. Łatwo przyzwyczaić się do wygód, więc gdy społeczność Dotnetu zaznała superszybkiego światłowodu i instrukcji sadzenia marchwii na YouTube w jakości HD, przerwy w dostawach Internetu wyzwalały w nich najgorsze instynkty. W związku z tym Sołtys, by nieco załagodzić sytuację wpadł na pomysł zorganizowania loterii. Każdy niezadowolony mieszkaniec, który złoży stosowny wniosek ma szansę wygrać roczny zapas nasion warzyw korzeniowych oraz dożywotnią subskrybcję czasopisma Farmer. Na koniec każdego miesiąca system wylosuje zwycięzcę.
+
+Napisz program wyszukujący wylosowanego mieszkańca Wyspy.
+
+Wejście
+Na standardowym wejściu program otrzyma oddzielone pojedynczym odstępem liczbę n wniosków oraz liczbę k wylosowaną przez system, a następnie dane n wniosków. Dane każdego z wniosków składają się z trzech linii zawierających imię, nazwisko i identyfikator wnioskodawcy. Identyfikatory są liczbami całkowitymi z zakresu od 0 do 232-1. Zakładamy, że jedna osoba może złożyć co najwyżej jeden wniosek.
+
+1 ≤ n ≤ 500000
+0 ≤ k < n
+Wyjście
+Program powinien wypisać na standardowym wyjściu dane z k-tego wniosku względem porządku ustalonego w następujący sposób: w pierwszej kolejności bierze się pod uwagę wartości identyfikatorów, przy równych identyfikatorach w drugiej kolejności porządek alfabetyczny na nazwiskach, a przy równych identyfikatorach i nazwiskach porządek alfabetyczny na imionach. Wnioski są numerowane od 0.
+
+Uwaga! Program powinien działać w pesymistycznym czasie liniowym.
